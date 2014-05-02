@@ -1,0 +1,189 @@
+﻿eSpeak 1.10,A
+Gujarati:
+Resolved the problem with Choti ee plus nasal sound.
+Eg. 
+કિંજલ, બિંદુ, સિંધુ, કિંતુ, 
+
+Resolved the problem with Badi ee plus nasal sound.
+Eg.
+ઈંદ્રીય, સીંદુર, સીંચાય, સીંગલ, લીંબુ, લીંબડો, વીંધ્યાચલ, રીંગ, પીંગળ, ટીંચર, ચીંતા.
+
+
+eSpeak 1.10
+Hindi: 18 April
+
+modified phoneme /a~/
+Improved pronunciation of words like 5, सांच, जांच etc
+
+Oriya: 18 April
+modified translation for the number 1  to 100
+
+Bengali :  17,19 April
+
+Exception word pronunciation Revision done for these words
+
+প্সোমবার, অমলকান্তি, আসনতলে           , ইমনকল্যান, কচকচি, খরখরে, খিড়কি, গজগজ, ছটপট, টনটনে, ছালবাকল, ফুলশয্যা, পাগলা, মর্যাদা, আত্ম, দেখছি, , দরকার, একটি , চারটি , খেলবো , খেলা , অথচ , দুঃখ 
+
+List of new Joint words
+
+অমরসঙ্গী, চুপচাপ, আকাশবানী, আমপাতা, কাজকর্ম , সবরকম , দিনরাত , আমরাই, দেবদেবী, বিদঘুটে 
+
+Added phoneme rules for<group.ব>
+Redefined phoneme rules for < .group য়>
+Redefined phoneme rules for < .group এ>
+Redefined phoneme rules for < .group অ>
+Phoneme modification done for .group য
+
+
+eSpeak 1.09C
+Gujarati : 
+
+According to feedback jha ( ઝ 0A9D) is changed because it is told that it should sound like za ( જ઼ 0A9C + 0ABC) 
+
+eSpeak 1.09B
+Gujarati : 
+
+Number 89 has been Improved according to the feedback.
+
+According to the Gujarati code chart 0ab3 is lla but feedback says that it is adda. I assume this is the mistake done by Unicode code chart, so I changed the lla for testing perpous.
+
+eSpeak 1.09
+Gujarati : 
+
+phoneme [ra] [ર] has been improved because at the end of a word it sounded wrongly.
+
+Problem has been resolved when [Va] [વ]  comes at the end of the word with matra as it sounding wrong.
+
+Oriya : 
+
+The Oriya files sent on 12th March 2014 have been updated in the version.
+
+Sindi:
+The Sindi files sent on 12th March have been updated in the version.
+
+eSpeak 1.08
+Gujarati : 
+
+Number 2 has been modified when it comes at as the third character from the right, 
+in any figure which ends at 200 to 299, Gujarati number 2 will change its original sound into a different sound.
+
+The name of two characters given below has been modified according to the feedback.
+
+[Hnna]  [ ણ ]
+[adda]   [ ડ઼ ]
+
+The phoneme sound of letter [Gnna]  [ જ્ઞ ] has been modified according to the feedback.
+
+Hindi : 
+The Hindi list file sent on 31st January 2014 has been updated in the version.
+
+eSpeak 1.07
+Gujarati : 
+The Character name of the character [anna] has been modified according to the feedback.
+
+Hindi : 
+The Hindi file sent on Third January 2014 has been updated in the version.
+
+In exception list, 71 joint words have been included with their pronunciation rules.
+
+Bengali : 
+The Bengali files sent on 20th December and Third January have been updated in the version.
+
+71 Bengali Exception words have been included with their pronunciation rules - where inherent vowel even being between two consonant is not pronounced as (o) mostly in case of two words pronounced and used as a single word. 
+
+Oriya : 
+The Oriya files sent on 20th December and Third January have been updated in the version.
+
+modification for Oriya numbers  1 to 30 and 31 to 100. 
+
+eSpeak 1.06
+Gujarati : 
+Problems with half characters are fixed where the half characters come before the same full character. eSpeak could not join sounds of these two characters. 
+
+ga [ગ્ગ]
+chha [છ્છ]
+half cha with chha [ચ્છ]
+ja [જ્જ]
+tha [ઠ્ઠ]
+half ta with tha [ટ્ઠ]
+da [ડ્ડ]
+ddha [ઢ્ઢ]
+tha [થ્થ]
+half ta with tha [ત્થ]
+da [દ્દ]
+ddha [ધ્ધ]
+half da with ddha [દ્ધ]
+pa [પ્પ]
+
+Assamese:
+The Assamese file sent on 13th December has been updated in the version.
+
+Pronunciation rule changes for - 40 - 49
+                                               52 - 56
+                                               57 - 59
+                                               61 - 64
+                                               66 - 69
+                                               72 - 75
+                                               78 - 80
+                                               82 - 86
+                                               88 - 89
+                                               92 - 99
+Pronunciation rule for Hundreds _0C  rule
+
+eSpeak 1.05
+Gujarati : 
+Separate new phonemes are created for the vowels (aI) and (aU). 
+
+Problems with half characters are fixed where the half characters come before the same full character. eSpeak could not join sounds of these two characters. ka, ch, tta, ta.
+
+Other Languages:
+The files sent on 29th November have been updated in the version and the language names are Assamese, Bengali, Hindi, Malyalam, Manipuri, Oriya, Sindhi, and Telugu.
+
+eSpeak 1.04
+Gujarati : 
+Fixed the R sound which was sounding inappropriate when at the end of a word.
+Fixed the number sound 200 according to the feed back.
+
+Oriya : 
+Oriya files have been included which were sent to me.
+
+
+eSpeak 1.03
+Gujarati : 
+Gujarati numbers have been introduced and have been set according to the feedbacks received. 
+Several other changes made.
+
+eSpeak 1.02
+
+Gujarati : 
+Introduced rules for Gujarati language.
+
+Hindi : 
+Pronunciation of Chha 'छ'  and Jhha 'झ' were not getting distinguished so they have been made more palatal aspirated plosive.
+???
+जांच, आंच, काँकड़ि were with a stressed n on on the anuswar or chandrabindu
+Modification done on the hi_ list file for the phoneme rules for the consonants with removal of the additional phoneme strings for such combination against each consonant
+
+Bengali : 
+
+issue with য়/ Oj eg; desired pronunciation /Poi'sa but was being pronounced as 'payosa'
+Modified the [phoneme to jV and phone,me rules C)য় (C j
+
+Issue with 'ja'fala, that should double the pronunciation of the preceeding consonant. Eg; Onnay was pronounced as 'onyai' as against the desired pronunciation
+Changed phoneme rules for য dZV modified to ্) যা :& 
+
+espeak 1.01  
+Character Support for Gujarati Language has been introduced in this version.
+
+Hindi :
+
+Changed the sound when chandrabindu and bindu comes with the aa ki matra since it was not sounding appropriate.
+
+The character halant will be recognised by espeak now. Earlier it was pronounced akshar Naw char D.
+
+espeak 1.0
+It was test build only.
+
+This software is compiled by Maheshinder Singh Khosla.
+The software originally belongs to Mr. Jonathan.
+This version is compiled for Indian languages only. After testing and improvement the source will be merged with the main espeak program.
